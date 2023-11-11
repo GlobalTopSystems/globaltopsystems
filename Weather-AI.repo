@@ -1,0 +1,5 @@
+[WAIA]
+name=WAIARepository
+baseurl=https://https://github.com/GlobalTopSystems/GlobalTopSystems/Weather-AI.repo
+enabled=1
+gpgcheck=0
